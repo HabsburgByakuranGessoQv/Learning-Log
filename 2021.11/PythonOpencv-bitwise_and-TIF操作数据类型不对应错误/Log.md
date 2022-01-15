@@ -25,7 +25,7 @@ bitwise_and 操作，速度大大加快。
 ### 代码
 此代码并没有完全完成， 由于本人要处理的 tif 文件比较多， 在执行代码中写了一个自动生成文件夹的代码存放相应的切割图， 相信在后期项目的时候可以对里面的路径也写
 一个可以操作的函数， 最终目的是将整个流程做成一个可以随时可用的包。  
-此为文件链接: [ProcessingImage.py](https://github.com/HabsburgGQv/Learning-Log/blob/main/2021.11/ProcessingImage.py)  
+此为文件链接: [ProcessingImage.py](https://github.com/HabsburgGQv/Learning-Log/blob/d512649979adb0eada418595bd20ca276a539f2c/2021.11/PythonOpencv-bitwise_and-TIF%E6%93%8D%E4%BD%9C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E4%B8%8D%E5%AF%B9%E5%BA%94%E9%94%99%E8%AF%AF/ProcessingImage.py)  
 
 ```python
 
