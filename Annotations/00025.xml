@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>00025.jpg</filename>
+	<path>E:\STUDYCONTENT\Pycharm\torchcon\images\00025.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1333</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>298</ymin>
+			<xmax>1279</xmax>
+			<ymax>893</ymax>
+		</bndbox>
+	</object>
+</annotation>
